@@ -1,0 +1,24 @@
+Start testing: May 30 23:31 RTZ 2 (ceia)
+----------------------------------------------------------
+1/1 Testing: test_input
+1/1 Test: test_input
+Command: "C:/Users/veronika/Desktop/lr3/cmake-build-debug/test_input.exe"
+Directory: C:/Users/veronika/Desktop/lr3/cmake-build-debug
+"test_input" start time: May 30 23:31 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+Assertion failed!
+
+Program: C:\Users\veronika\Desktop\lr3\cmake-build-debug\test_input.exe
+File: C:\Users\veronika\Desktop\lr3\test_input.cc, Line 22
+
+Expression: Temp.value == -42
+<end of output>
+Test time =  15.81 sec
+----------------------------------------------------------
+Test Failed.
+"test_input" end time: May 30 23:31 RTZ 2 (ceia)
+"test_input" time elapsed: 00:00:15
+----------------------------------------------------------
+
+End testing: May 30 23:31 RTZ 2 (ceia)

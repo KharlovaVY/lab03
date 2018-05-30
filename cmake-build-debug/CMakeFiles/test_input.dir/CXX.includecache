@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/veronika/Desktop/lr3/Temperature.cc
+Temperature.h
+C:/Users/veronika/Desktop/lr3/Temperature.h
+
+C:/Users/veronika/Desktop/lr3/Temperature.h
+iostream
+-
+sstream
+-
+
+C:/Users/veronika/Desktop/lr3/test_input.cc
+cassert
+-
+Temperature.h
+C:/Users/veronika/Desktop/lr3/Temperature.h
+

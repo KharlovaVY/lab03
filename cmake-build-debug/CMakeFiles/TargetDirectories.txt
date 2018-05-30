@@ -1,0 +1,5 @@
+C:/Users/veronika/Desktop/lr3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/veronika/Desktop/lr3/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/veronika/Desktop/lr3/cmake-build-debug/CMakeFiles/lab03.dir
+C:/Users/veronika/Desktop/lr3/cmake-build-debug/CMakeFiles/test_input.dir
+C:/Users/veronika/Desktop/lr3/cmake-build-debug/CMakeFiles/edit_cache.dir
